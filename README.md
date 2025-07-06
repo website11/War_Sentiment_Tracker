@@ -1,3 +1,5 @@
 ## War Sentiment Tracker
 
-The goal of this project is to track public sentiment online about various conflicts around the world. 
+Welcome to the war sentiment tracker!
+
+The goal of this project is to track public sentiment on the Ukraine-Russia conflict.
